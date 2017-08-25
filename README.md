@@ -7,4 +7,5 @@ The robot must be able to reach a work piece into different positions and orient
 
 ## Implementation
 We used robotic toolbox to compute the the joint angles (inverse kinematic) required to reach the required points, the result is shown below:
+
 ![image](https://user-images.githubusercontent.com/25124540/29734745-a2edcfd0-89fc-11e7-9375-5df18680498d.png)
